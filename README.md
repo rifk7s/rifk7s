@@ -1,32 +1,42 @@
-<h1 align="center">Hi 👋, I'm Rifky</h1>
-<h3 align="center">A self-taught frontend developer from Southeast Asia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifk7s&label=Profile%20views&color=0e75b6&style=flat" alt="rifk7s" /> </p>
+### Hi there 👋
 
-- 🔭 I’m currently studying at [Universitas Ciputra](https://www.ciputramakassar.ac.id/imt/)
+### My Main Operating System:
 
-- 🌱 I’m currently learning **python**
+#### **Used for all tasks except gaming, which is on Windows:**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rifk7s](https://github.com/rifk7s)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
 
-- 💬 Ask me about **python, git and java**
+> [!NOTE]
+> I use Linux for its robust performance and flexibility, while gaming is reserved for Windows due to compatibility.
 
-- 📫 contact me at **rifkip1337@gmail.com**
+### My Main Programming Language:
 
-- ⚡ Fun fact **saya salah jurusan**
+#### Systems:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 
-<a href="http://discordapp.com/users/485574813801381890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="485574813801381890" height="30" width="40" /></a>
-<a href="https://instagram.com/rifkp7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifkp7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ripkii1_704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ripkii1_704" height="30" width="40" /></a>
+#### Frontend/Web Development:
 
-</p>
+- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### Scripting:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifk7s&show_icons=true&locale=en&layout=compact" alt="rifk7s" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifk7s&show_icons=true&locale=en" alt="rifk7s" /></p>
+- [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+  [![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=make&logoColor=white)](https://www.gnu.org/software/make/) 
+  [![Static Badge](https://img.shields.io/badge/-lightblue?style=flat&logo=openjdk&label=Java&labelColor=lightblue)](https://www.oracle.com/id/java/technologies/downloads/)
 
+
+### Deployment Tools:
+
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
+
+### My Git:
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rifk7s) 
+- [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
+- [![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat&logo=gitea&logoColor=white)](https://gitea.io)
+
+### VSCode Theme:
+
+- [![Moonlight](https://img.shields.io/badge/VSCode%20Theme-Moonlight-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 
