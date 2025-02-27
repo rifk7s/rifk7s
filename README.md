@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rifk7s](https://github.com/rifk7s)
 
-- 💬 Ask me about **python, git and php**
+- 💬 Ask me about **python, git and java**
 
 - 📫 contact me at **rifkip1337@gmail.com**
 
