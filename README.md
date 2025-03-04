@@ -4,31 +4,41 @@
 
 #### **Used for all tasks except gaming, which is on Windows:**
 
-- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org)  
+- [![Windows 11 LTSC](https://img.shields.io/badge/Windows%2011%20LTSC-08a1f7?style=flat-square&logo=quarto&logoColor=white)](https://www.microsoft.com/windows/)
 
-> [!NOTE]
+> [!NOTE]  
 > I use Linux for its robust performance and flexibility, while gaming is reserved for Windows due to compatibility.
 
 ### My Main Programming Language:
 
+#### IDE:
+- ![VSCode](https://img.shields.io/badge/VSCode-0086d1?style=flat&logo=internetcomputer&logoColor=white) 
+
 #### Systems:
 
-- [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
-
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- ![Odin](https://img.shields.io/badge/Odin-%23A43B20.svg?style=flat-square&logo=odin&logoColor=white)
+  
 #### Frontend/Web Development:
 
 - [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
 
 #### Scripting:
 
-- [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-  [![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=make&logoColor=white)](https://www.gnu.org/software/make/) 
-  [![Static Badge](https://img.shields.io/badge/-lightblue?style=flat&logo=openjdk&label=Java&labelColor=lightblue)](https://www.oracle.com/id/java/technologies/downloads/)
-
+- [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+  [![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=make&logoColor=white)](https://www.gnu.org/software/make/) 
+  [![Oracle Java 23](https://img.shields.io/badge/Oracle%20Java%2023-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 
 ### Deployment Tools:
 
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
+ [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) 
+ [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
+  
 
 ### My Git:
 
@@ -38,5 +48,5 @@
 
 ### VSCode Theme:
 
-- [![Moonlight](https://img.shields.io/badge/VSCode%20Theme-Moonlight-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
+- [![Vesper](https://img.shields.io/badge/VSCode%20Theme-Vesper-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper)
 
