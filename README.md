@@ -39,12 +39,15 @@
  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) 
  [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
   
-
 ### My Git:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rifk7s) 
 - [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com)
 - [![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat&logo=gitea&logoColor=white)](https://gitea.io)
+
+### Git Roll Stats:
+
+- [![Intern-level Developer](https://img.shields.io/badge/GitRoll-Intern--level%20Developer-blue?style=flat&logo=git&logoColor=white)](https://gitroll.io/profile/uEfXMVlgvwJSmIuX7d8ReO6wcanJ3)
 
 ### VSCode Theme:
 
