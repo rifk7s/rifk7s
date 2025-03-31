@@ -5,7 +5,7 @@
 #### **Used for all tasks except gaming, which is on Windows:**
 
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org)  
-- [![Windows 11 IoT Enterprise LTSC](https://img.shields.io/badge/Windows%2011%20LTSC-08a1f7?style=flat-square&logo=quarto&logoColor=white)](https://www.microsoft.com/windows/)
+- [![Windows 11 IoT Enterprise LTSC](https://img.shields.io/badge/Windows%2011%20IoT%20Enterprise%20LTSC-08a1f7?style=flat-square&logo=quarto&logoColor=white)](https://www.microsoft.com/windows/)
 
 > [!NOTE]  
 > I use Linux for its robust performance and flexibility, while gaming is reserved for Windows due to compatibility.
