@@ -18,7 +18,8 @@
 #### Frontend/Web Development:
 
 - [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS](https://img.shields.io/badge/CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+  [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![Next.js](https://img.shields.io/badge/Next.js-00000F?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
 
