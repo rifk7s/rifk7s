@@ -26,7 +26,6 @@
 #### Scripting:
 
 - [![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-  [![Oracle Java 23](https://img.shields.io/badge/Oracle%20Java%2023-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
   [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
   [![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat&logo=make&logoColor=white)](https://www.gnu.org/software/make/) 
   
@@ -34,6 +33,7 @@
 
 #### Still Learning:
 
+- [![OpenJDK 21](https://img.shields.io/badge/OpenJDK%2021-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org)
 - [![Rust](https://img.shields.io/badge/Rust-DEA574?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
