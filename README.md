@@ -20,8 +20,8 @@
 - [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-  [![Next.js](https://img.shields.io/badge/Next.js-00000F?style=flat&logo=next.js&logoColor=white)](https://nextjs.org)
+ <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+  [![Next.js](https://img.shields.io/badge/Next.js-00000F?style=flat&logo=next.js&logoColor=white)](https://nextjs.org) -->
 
 #### Scripting:
 
@@ -34,21 +34,21 @@
 #### Still Learning:
 
 - [![OpenJDK 21](https://img.shields.io/badge/OpenJDK%2021-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org)
-- [![Rust](https://img.shields.io/badge/Rust-DEA574?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<!-- - [![Rust](https://img.shields.io/badge/Rust-DEA574?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org) -->
 
 ### Deployment Tools:
 
 - [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://pages.github.com)
   [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
-  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) 
   [![Skaffold](https://img.shields.io/badge/Skaffold-008BB9?style=flat&logo=skaffold&logoColor=white)](https://skaffold.dev)
+  <!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)  -->
   
 ### Current IDE:
 
 - [![VSCode](https://img.shields.io/badge/VSCode-0086d1?style=flat&logo=internetcomputer&logoColor=white)](https://code.visualstudio.com)
 
-- [![Vesper](https://img.shields.io/badge/VSCode%20Theme-Vesper-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper)
+<!-- - [![Vesper](https://img.shields.io/badge/VSCode%20Theme-Vesper-1E1E1E?style=flat)](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper) -->
 
 ### Git Roll Stats:
 
