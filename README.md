@@ -2,14 +2,14 @@
 
 ### My Main Operating System:
 
-#### **Used for all tasks except gaming, which is on Windows:**
+#### **Used for all tasks, including gaming:**
 - [![Windows](https://img.shields.io/badge/Windows-08a1f7?style=flat&logo=quarto&logoColor=white)](https://www.microsoft.com/windows/)
 - [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
   
-> [!NOTE]  
-> I use Linux for its robust performance and flexibility, while gaming is reserved for Windows due to compatibility.
+> [!NOTE]
+> I use Linux for its robust performance, flexibility, and care about privacy.<br> while gaming is reserved for Windows due to compatibility.
 
-### My Main Programming Language:
+### My Main Programming Languages:
 
 #### Systems:
 
