@@ -23,6 +23,11 @@
  <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![Next.js](https://img.shields.io/badge/Next.js-00000F?style=flat&logo=next.js&logoColor=white)](https://nextjs.org) -->
 
+#### Backend Development:
+
+- [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=apache&logoColor=white)](https://www.apachefriends.org)
+  [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+
 #### Scripting:
 
 - [![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
