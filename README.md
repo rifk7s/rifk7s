@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-I'm a student who loves collaborating on projects through GitHub. Most of my work involves team projects and coursework where I learn by building things together with my peers.
+Most of my work involves team projects and coursework where I learn by building things together with my peers.
 
 > [!NOTE]
 > If you see my commits in other repositories, these are primarily contributions to team projects and coursework collaborations, not solo projects.
